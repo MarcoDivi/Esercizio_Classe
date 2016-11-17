@@ -1,0 +1,12 @@
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
