@@ -30,6 +30,7 @@
         {
             this.btnRiccardo = new System.Windows.Forms.Button();
             this.lblTesto = new System.Windows.Forms.Label();
+            this.btnNurul = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -52,15 +53,26 @@
             this.lblTesto.TabIndex = 2;
             this.lblTesto.Text = "Visualizzazione testo";
             // 
+            // btnNurul
+            // 
+            this.btnNurul.Location = new System.Drawing.Point(12, 126);
+            this.btnNurul.Name = "btnNurul";
+            this.btnNurul.Size = new System.Drawing.Size(95, 23);
+            this.btnNurul.TabIndex = 3;
+            this.btnNurul.Text = "Mostra Nurul";
+            this.btnNurul.UseVisualStyleBackColor = true;
+            this.btnNurul.Click += new System.EventHandler(this.btnNurul_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnNurul);
             this.Controls.Add(this.lblTesto);
             this.Controls.Add(this.btnRiccardo);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Esercizio";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -70,6 +82,7 @@
 
         private System.Windows.Forms.Button btnRiccardo;
         private System.Windows.Forms.Label lblTesto;
+        private System.Windows.Forms.Button btnNurul;
     }
 }
 

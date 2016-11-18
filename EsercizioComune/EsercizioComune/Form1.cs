@@ -21,5 +21,10 @@ namespace EsercizioComune
         {
             lblTesto.Text = "Riccardo Somigli";
         }
+
+        private void btnNurul_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Nurul Najmul";
+        }
     }
 }
