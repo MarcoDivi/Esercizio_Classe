@@ -31,6 +31,7 @@
             this.btnRiccardo = new System.Windows.Forms.Button();
             this.lblTesto = new System.Windows.Forms.Label();
             this.btnNurul = new System.Windows.Forms.Button();
+            this.btnRusso = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -63,11 +64,22 @@
             this.btnNurul.UseVisualStyleBackColor = true;
             this.btnNurul.Click += new System.EventHandler(this.btnNurul_Click);
             // 
+            // btnRusso
+            // 
+            this.btnRusso.Location = new System.Drawing.Point(12, 165);
+            this.btnRusso.Name = "btnRusso";
+            this.btnRusso.Size = new System.Drawing.Size(95, 23);
+            this.btnRusso.TabIndex = 4;
+            this.btnRusso.Text = "Mostra Russo";
+            this.btnRusso.UseVisualStyleBackColor = true;
+            this.btnRusso.Click += new System.EventHandler(this.btnRusso_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnRusso);
             this.Controls.Add(this.btnNurul);
             this.Controls.Add(this.lblTesto);
             this.Controls.Add(this.btnRiccardo);
@@ -83,6 +95,7 @@
         private System.Windows.Forms.Button btnRiccardo;
         private System.Windows.Forms.Label lblTesto;
         private System.Windows.Forms.Button btnNurul;
+        private System.Windows.Forms.Button btnRusso;
     }
 }
 

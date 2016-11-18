@@ -26,5 +26,10 @@ namespace EsercizioComune
         {
             lblTesto.Text = "Nurul Najmul";
         }
+
+        private void btnRusso_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Mattia Russo";
+        }
     }
 }
