@@ -16,5 +16,10 @@ namespace EsercizioComune
         {
             InitializeComponent();
         }
+
+        private void btnPersona_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = cbPersona.Text;
+        }
     }
 }

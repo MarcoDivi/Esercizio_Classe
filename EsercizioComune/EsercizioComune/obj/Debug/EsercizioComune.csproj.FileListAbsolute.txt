@@ -10,3 +10,12 @@ c:\users\enza\documents\visual studio 2015\Projects\EsercizioComune\EsercizioCom
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+C:\Users\rikys\Desktop\Nuova cartella\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
