@@ -28,39 +28,27 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnPersona = new System.Windows.Forms.Button();
-            this.cbPersona = new System.Windows.Forms.ComboBox();
+            this.btnRiccardo = new System.Windows.Forms.Button();
             this.lblTesto = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnPersona
+            // btnRiccardo
             // 
-            this.btnPersona.Location = new System.Drawing.Point(167, 129);
-            this.btnPersona.Name = "btnPersona";
-            this.btnPersona.Size = new System.Drawing.Size(75, 23);
-            this.btnPersona.TabIndex = 0;
-            this.btnPersona.Text = "Mostra";
-            this.btnPersona.UseVisualStyleBackColor = true;
-            this.btnPersona.Click += new System.EventHandler(this.btnPersona_Click);
-            // 
-            // cbPersona
-            // 
-            this.cbPersona.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbPersona.FormattingEnabled = true;
-            this.cbPersona.Items.AddRange(new object[] {
-            "Riccardo Somigli"});
-            this.cbPersona.Location = new System.Drawing.Point(89, 41);
-            this.cbPersona.Name = "cbPersona";
-            this.cbPersona.Size = new System.Drawing.Size(233, 21);
-            this.cbPersona.TabIndex = 1;
+            this.btnRiccardo.Location = new System.Drawing.Point(12, 84);
+            this.btnRiccardo.Name = "btnRiccardo";
+            this.btnRiccardo.Size = new System.Drawing.Size(95, 23);
+            this.btnRiccardo.TabIndex = 0;
+            this.btnRiccardo.Text = "Mostra Riccardo";
+            this.btnRiccardo.UseVisualStyleBackColor = true;
+            this.btnRiccardo.Click += new System.EventHandler(this.btnRiccardo_Click);
             // 
             // lblTesto
             // 
             this.lblTesto.AutoSize = true;
-            this.lblTesto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTesto.Location = new System.Drawing.Point(118, 196);
+            this.lblTesto.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTesto.Location = new System.Drawing.Point(47, 22);
             this.lblTesto.Name = "lblTesto";
-            this.lblTesto.Size = new System.Drawing.Size(179, 20);
+            this.lblTesto.Size = new System.Drawing.Size(290, 31);
             this.lblTesto.TabIndex = 2;
             this.lblTesto.Text = "Visualizzazione testo";
             // 
@@ -70,8 +58,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
             this.Controls.Add(this.lblTesto);
-            this.Controls.Add(this.cbPersona);
-            this.Controls.Add(this.btnPersona);
+            this.Controls.Add(this.btnRiccardo);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -81,8 +68,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnPersona;
-        private System.Windows.Forms.ComboBox cbPersona;
+        private System.Windows.Forms.Button btnRiccardo;
         private System.Windows.Forms.Label lblTesto;
     }
 }

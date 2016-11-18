@@ -17,9 +17,9 @@ namespace EsercizioComune
             InitializeComponent();
         }
 
-        private void btnPersona_Click(object sender, EventArgs e)
+        private void btnRiccardo_Click(object sender, EventArgs e)
         {
-            lblTesto.Text = cbPersona.Text;
+            lblTesto.Text = "Riccardo Somigli";
         }
     }
 }
