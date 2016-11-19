@@ -35,6 +35,7 @@
             this.btnCini = new System.Windows.Forms.Button();
             this.btnDangelo = new System.Windows.Forms.Button();
             this.buttonTarchi = new System.Windows.Forms.Button();
+            this.btnVannozzi = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -107,11 +108,22 @@
             this.buttonTarchi.UseVisualStyleBackColor = true;
             this.buttonTarchi.Click += new System.EventHandler(this.buttonTarchi_Click);
             // 
+            // btnVannozzi
+            // 
+            this.btnVannozzi.Location = new System.Drawing.Point(139, 126);
+            this.btnVannozzi.Name = "btnVannozzi";
+            this.btnVannozzi.Size = new System.Drawing.Size(95, 23);
+            this.btnVannozzi.TabIndex = 8;
+            this.btnVannozzi.Text = "Mostra Vannozzi";
+            this.btnVannozzi.UseVisualStyleBackColor = true;
+            this.btnVannozzi.Click += new System.EventHandler(this.btnVannozzi_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnVannozzi);
             this.Controls.Add(this.buttonTarchi);
             this.Controls.Add(this.btnDangelo);
             this.Controls.Add(this.btnCini);
@@ -135,6 +147,7 @@
         private System.Windows.Forms.Button btnCini;
         private System.Windows.Forms.Button btnDangelo;
         private System.Windows.Forms.Button buttonTarchi;
+        private System.Windows.Forms.Button btnVannozzi;
     }
 }
 
