@@ -51,5 +51,10 @@ namespace EsercizioComune
         {
             lblTesto.Text = "Tommaso Vannozzi";
         }
+
+        private void BTN_Landi_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Federico Landi ";
+        }
     }
 }
