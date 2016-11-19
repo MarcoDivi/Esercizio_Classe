@@ -46,3 +46,12 @@ C:\Users\lorenzo\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\De
 C:\Users\lorenzo\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
 C:\Users\lorenzo\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
 C:\Users\lorenzo\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+C:\Users\Viola Tarchi\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache

@@ -41,5 +41,10 @@ namespace EsercizioComune
         {
             lblTesto.Text = "Gabriele D'Angelo ";
         }
+
+        private void buttonTarchi_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Lorenzo Tarchi ";
+        }
     }
 }
