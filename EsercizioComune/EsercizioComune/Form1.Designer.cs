@@ -32,6 +32,7 @@
             this.lblTesto = new System.Windows.Forms.Label();
             this.btnNurul = new System.Windows.Forms.Button();
             this.btnRusso = new System.Windows.Forms.Button();
+            this.btnCini = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -74,11 +75,22 @@
             this.btnRusso.UseVisualStyleBackColor = true;
             this.btnRusso.Click += new System.EventHandler(this.btnRusso_Click);
             // 
+            // btnCini
+            // 
+            this.btnCini.Location = new System.Drawing.Point(12, 206);
+            this.btnCini.Name = "btnCini";
+            this.btnCini.Size = new System.Drawing.Size(95, 23);
+            this.btnCini.TabIndex = 5;
+            this.btnCini.Text = "Mostra Cini";
+            this.btnCini.UseVisualStyleBackColor = true;
+            this.btnCini.Click += new System.EventHandler(this.btnCini_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnCini);
             this.Controls.Add(this.btnRusso);
             this.Controls.Add(this.btnNurul);
             this.Controls.Add(this.lblTesto);
@@ -96,6 +108,7 @@
         private System.Windows.Forms.Label lblTesto;
         private System.Windows.Forms.Button btnNurul;
         private System.Windows.Forms.Button btnRusso;
+        private System.Windows.Forms.Button btnCini;
     }
 }
 
