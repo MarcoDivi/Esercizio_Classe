@@ -37,6 +37,7 @@
             this.buttonTarchi = new System.Windows.Forms.Button();
             this.btnVannozzi = new System.Windows.Forms.Button();
             this.BTN_Landi = new System.Windows.Forms.Button();
+            this.btnNerucci = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -129,11 +130,22 @@
             this.BTN_Landi.UseVisualStyleBackColor = true;
             this.BTN_Landi.Click += new System.EventHandler(this.BTN_Landi_Click);
             // 
+            // btnNerucci
+            // 
+            this.btnNerucci.Location = new System.Drawing.Point(139, 205);
+            this.btnNerucci.Name = "btnNerucci";
+            this.btnNerucci.Size = new System.Drawing.Size(95, 23);
+            this.btnNerucci.TabIndex = 10;
+            this.btnNerucci.Text = "Mostra Nerucci";
+            this.btnNerucci.UseVisualStyleBackColor = true;
+            this.btnNerucci.Click += new System.EventHandler(this.btnNerucci_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnNerucci);
             this.Controls.Add(this.BTN_Landi);
             this.Controls.Add(this.btnVannozzi);
             this.Controls.Add(this.buttonTarchi);
@@ -161,6 +173,7 @@
         private System.Windows.Forms.Button buttonTarchi;
         private System.Windows.Forms.Button btnVannozzi;
         private System.Windows.Forms.Button BTN_Landi;
+        private System.Windows.Forms.Button btnNerucci;
     }
 }
 
