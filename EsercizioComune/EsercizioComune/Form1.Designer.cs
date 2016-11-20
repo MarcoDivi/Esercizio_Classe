@@ -1,6 +1,6 @@
 ﻿namespace EsercizioComune
 {
-    partial class Form1
+    partial class btnDiVincenzo
     {
         /// <summary>
         /// Required designer variable.
@@ -39,6 +39,7 @@
             this.BTN_Landi = new System.Windows.Forms.Button();
             this.btnNerucci = new System.Windows.Forms.Button();
             this.btnPaolacci = new System.Windows.Forms.Button();
+            this.btnDivi = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -151,11 +152,22 @@
             this.btnPaolacci.UseVisualStyleBackColor = true;
             this.btnPaolacci.Click += new System.EventHandler(this.btnPaolacci_Click);
             // 
-            // Form1
+            // btnDivi
+            // 
+            this.btnDivi.Location = new System.Drawing.Point(262, 84);
+            this.btnDivi.Name = "btnDivi";
+            this.btnDivi.Size = new System.Drawing.Size(117, 23);
+            this.btnDivi.TabIndex = 12;
+            this.btnDivi.Text = "Mostra Di Vincenzo";
+            this.btnDivi.UseVisualStyleBackColor = true;
+            this.btnDivi.Click += new System.EventHandler(this.btnDivi_Click);
+            // 
+            // btnDiVincenzo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnDivi);
             this.Controls.Add(this.btnPaolacci);
             this.Controls.Add(this.btnNerucci);
             this.Controls.Add(this.BTN_Landi);
@@ -167,7 +179,7 @@
             this.Controls.Add(this.btnNurul);
             this.Controls.Add(this.lblTesto);
             this.Controls.Add(this.btnRiccardo);
-            this.Name = "Form1";
+            this.Name = "btnDiVincenzo";
             this.Text = "Esercizio";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -187,6 +199,7 @@
         private System.Windows.Forms.Button BTN_Landi;
         private System.Windows.Forms.Button btnNerucci;
         private System.Windows.Forms.Button btnPaolacci;
+        private System.Windows.Forms.Button btnDivi;
     }
 }
 

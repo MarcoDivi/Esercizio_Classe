@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EsercizioComune
 {
-    public partial class Form1 : Form
+    public partial class btnDiVincenzo : Form
     {
-        public Form1()
+        public btnDiVincenzo()
         {
             InitializeComponent();
         }
@@ -65,6 +65,11 @@ namespace EsercizioComune
         private void btnPaolacci_Click(object sender, EventArgs e)
         {
             lblTesto.Text = "Lapo Paolacci";
+        }
+
+        private void btnDivi_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Marco Di Vincenzo";
         }
     }
 }
