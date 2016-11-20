@@ -41,6 +41,7 @@
             this.btnPaolacci = new System.Windows.Forms.Button();
             this.btnDivi = new System.Windows.Forms.Button();
             this.btnFlorindo = new System.Windows.Forms.Button();
+            this.btnGarcia = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -57,7 +58,7 @@
             // 
             this.lblTesto.AutoSize = true;
             this.lblTesto.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTesto.Location = new System.Drawing.Point(47, 22);
+            this.lblTesto.Location = new System.Drawing.Point(46, 25);
             this.lblTesto.Name = "lblTesto";
             this.lblTesto.Size = new System.Drawing.Size(290, 31);
             this.lblTesto.TabIndex = 2;
@@ -157,7 +158,7 @@
             // 
             this.btnDivi.Location = new System.Drawing.Point(262, 84);
             this.btnDivi.Name = "btnDivi";
-            this.btnDivi.Size = new System.Drawing.Size(117, 23);
+            this.btnDivi.Size = new System.Drawing.Size(112, 23);
             this.btnDivi.TabIndex = 12;
             this.btnDivi.Text = "Mostra Di Vincenzo";
             this.btnDivi.UseVisualStyleBackColor = true;
@@ -167,17 +168,28 @@
             // 
             this.btnFlorindo.Location = new System.Drawing.Point(262, 126);
             this.btnFlorindo.Name = "btnFlorindo";
-            this.btnFlorindo.Size = new System.Drawing.Size(117, 23);
+            this.btnFlorindo.Size = new System.Drawing.Size(112, 23);
             this.btnFlorindo.TabIndex = 13;
             this.btnFlorindo.Text = "Mostra Florindo";
             this.btnFlorindo.UseVisualStyleBackColor = true;
             this.btnFlorindo.Click += new System.EventHandler(this.btnFlorindo_Click);
             // 
+            // btnGarcia
+            // 
+            this.btnGarcia.Location = new System.Drawing.Point(262, 165);
+            this.btnGarcia.Name = "btnGarcia";
+            this.btnGarcia.Size = new System.Drawing.Size(112, 23);
+            this.btnGarcia.TabIndex = 14;
+            this.btnGarcia.Text = "Mostra Garcia";
+            this.btnGarcia.UseVisualStyleBackColor = true;
+            this.btnGarcia.Click += new System.EventHandler(this.btnGarcia_Click);
+            // 
             // form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(391, 280);
+            this.ClientSize = new System.Drawing.Size(392, 280);
+            this.Controls.Add(this.btnGarcia);
             this.Controls.Add(this.btnFlorindo);
             this.Controls.Add(this.btnDivi);
             this.Controls.Add(this.btnPaolacci);
@@ -213,6 +225,7 @@
         private System.Windows.Forms.Button btnPaolacci;
         private System.Windows.Forms.Button btnDivi;
         private System.Windows.Forms.Button btnFlorindo;
+        private System.Windows.Forms.Button btnGarcia;
     }
 }
 

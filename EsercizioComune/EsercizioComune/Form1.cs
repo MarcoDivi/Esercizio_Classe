@@ -76,5 +76,10 @@ namespace EsercizioComune
         {
             lblTesto.Text = "Fabio Florindo";
         }
+
+        private void btnGarcia_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "John Paul Garcia";
+        }
     }
 }

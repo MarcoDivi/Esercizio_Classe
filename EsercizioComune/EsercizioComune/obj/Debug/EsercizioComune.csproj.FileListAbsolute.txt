@@ -100,3 +100,12 @@ C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.form1.resources
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.form1.resources
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
