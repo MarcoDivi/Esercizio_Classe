@@ -42,6 +42,7 @@
             this.btnDivi = new System.Windows.Forms.Button();
             this.btnFlorindo = new System.Windows.Forms.Button();
             this.btnGarcia = new System.Windows.Forms.Button();
+            this.btnDuta = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -184,11 +185,22 @@
             this.btnGarcia.UseVisualStyleBackColor = true;
             this.btnGarcia.Click += new System.EventHandler(this.btnGarcia_Click);
             // 
+            // btnDuta
+            // 
+            this.btnDuta.Location = new System.Drawing.Point(262, 206);
+            this.btnDuta.Name = "btnDuta";
+            this.btnDuta.Size = new System.Drawing.Size(112, 23);
+            this.btnDuta.TabIndex = 15;
+            this.btnDuta.Text = "Mostra Duta";
+            this.btnDuta.UseVisualStyleBackColor = true;
+            this.btnDuta.Click += new System.EventHandler(this.btnDuta_Click);
+            // 
             // form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(392, 280);
+            this.Controls.Add(this.btnDuta);
             this.Controls.Add(this.btnGarcia);
             this.Controls.Add(this.btnFlorindo);
             this.Controls.Add(this.btnDivi);
@@ -226,6 +238,7 @@
         private System.Windows.Forms.Button btnDivi;
         private System.Windows.Forms.Button btnFlorindo;
         private System.Windows.Forms.Button btnGarcia;
+        private System.Windows.Forms.Button btnDuta;
     }
 }
 

@@ -109,3 +109,12 @@ C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune
 C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.form1.resources
 C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
 C:\Users\JPaul_Garcia\Documents\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.form1.resources
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb

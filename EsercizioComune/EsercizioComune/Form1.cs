@@ -81,5 +81,12 @@ namespace EsercizioComune
         {
             lblTesto.Text = "John Paul Garcia";
         }
+
+        private void btnDuta_Click(object sender, EventArgs e)
+        {
+            lblTesto.Text = "Duta Adrian George";
+        }
+
+      
     }
 }
