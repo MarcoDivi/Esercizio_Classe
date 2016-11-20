@@ -1,6 +1,6 @@
 ﻿namespace EsercizioComune
 {
-    partial class btnDiVincenzo
+    partial class form1
     {
         /// <summary>
         /// Required designer variable.
@@ -40,6 +40,7 @@
             this.btnNerucci = new System.Windows.Forms.Button();
             this.btnPaolacci = new System.Windows.Forms.Button();
             this.btnDivi = new System.Windows.Forms.Button();
+            this.btnFlorindo = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -162,11 +163,22 @@
             this.btnDivi.UseVisualStyleBackColor = true;
             this.btnDivi.Click += new System.EventHandler(this.btnDivi_Click);
             // 
-            // btnDiVincenzo
+            // btnFlorindo
+            // 
+            this.btnFlorindo.Location = new System.Drawing.Point(262, 126);
+            this.btnFlorindo.Name = "btnFlorindo";
+            this.btnFlorindo.Size = new System.Drawing.Size(117, 23);
+            this.btnFlorindo.TabIndex = 13;
+            this.btnFlorindo.Text = "Mostra Florindo";
+            this.btnFlorindo.UseVisualStyleBackColor = true;
+            this.btnFlorindo.Click += new System.EventHandler(this.btnFlorindo_Click);
+            // 
+            // form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnFlorindo);
             this.Controls.Add(this.btnDivi);
             this.Controls.Add(this.btnPaolacci);
             this.Controls.Add(this.btnNerucci);
@@ -179,7 +191,7 @@
             this.Controls.Add(this.btnNurul);
             this.Controls.Add(this.lblTesto);
             this.Controls.Add(this.btnRiccardo);
-            this.Name = "btnDiVincenzo";
+            this.Name = "form1";
             this.Text = "Esercizio";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -200,6 +212,7 @@
         private System.Windows.Forms.Button btnNerucci;
         private System.Windows.Forms.Button btnPaolacci;
         private System.Windows.Forms.Button btnDivi;
+        private System.Windows.Forms.Button btnFlorindo;
     }
 }
 

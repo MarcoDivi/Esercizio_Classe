@@ -97,6 +97,6 @@ C:\Users\enza\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
-C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.btnDiVincenzo.resources
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
 C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+C:\Users\enza\Desktop\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.form1.resources

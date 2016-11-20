@@ -16,7 +16,7 @@ namespace EsercizioComune
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new btnDiVincenzo());
+            Application.Run(new form1());
         }
     }
 }
