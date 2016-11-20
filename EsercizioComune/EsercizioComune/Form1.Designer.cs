@@ -38,6 +38,7 @@
             this.btnVannozzi = new System.Windows.Forms.Button();
             this.BTN_Landi = new System.Windows.Forms.Button();
             this.btnNerucci = new System.Windows.Forms.Button();
+            this.btnPaolacci = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRiccardo
@@ -140,11 +141,22 @@
             this.btnNerucci.UseVisualStyleBackColor = true;
             this.btnNerucci.Click += new System.EventHandler(this.btnNerucci_Click);
             // 
+            // btnPaolacci
+            // 
+            this.btnPaolacci.Location = new System.Drawing.Point(139, 245);
+            this.btnPaolacci.Name = "btnPaolacci";
+            this.btnPaolacci.Size = new System.Drawing.Size(95, 23);
+            this.btnPaolacci.TabIndex = 11;
+            this.btnPaolacci.Text = "Mostra Paolacci";
+            this.btnPaolacci.UseVisualStyleBackColor = true;
+            this.btnPaolacci.Click += new System.EventHandler(this.btnPaolacci_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 280);
+            this.Controls.Add(this.btnPaolacci);
             this.Controls.Add(this.btnNerucci);
             this.Controls.Add(this.BTN_Landi);
             this.Controls.Add(this.btnVannozzi);
@@ -174,6 +186,7 @@
         private System.Windows.Forms.Button btnVannozzi;
         private System.Windows.Forms.Button BTN_Landi;
         private System.Windows.Forms.Button btnNerucci;
+        private System.Windows.Forms.Button btnPaolacci;
     }
 }
 

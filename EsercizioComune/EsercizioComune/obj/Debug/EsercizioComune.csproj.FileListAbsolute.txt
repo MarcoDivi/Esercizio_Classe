@@ -82,3 +82,12 @@ C:\Users\User\Desktop\Nerucci Davide\Esercizio_Classe\EsercizioComune\EsercizioC
 C:\Users\User\Desktop\Nerucci Davide\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
 C:\Users\User\Desktop\Nerucci Davide\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
 C:\Users\User\Desktop\Nerucci Davide\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csprojResolveAssemblyReference.cache
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Form1.resources
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.Properties.Resources.resources
+C:\Users\rikys\Desktop\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
