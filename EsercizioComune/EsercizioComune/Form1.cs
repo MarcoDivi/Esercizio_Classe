@@ -34,7 +34,7 @@ namespace EsercizioComune
 
         private void btnCini_Click(object sender, EventArgs e)
         {
-            lblTesto.Text = "Lorenzo Cini ";
+            lblTesto.Text = "Lorenzo Cioni ";
         }
 
         private void btnDangelo_Click(object sender, EventArgs e)

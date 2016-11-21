@@ -91,7 +91,7 @@
             this.btnCini.Name = "btnCini";
             this.btnCini.Size = new System.Drawing.Size(95, 23);
             this.btnCini.TabIndex = 5;
-            this.btnCini.Text = "Mostra Cini";
+            this.btnCini.Text = "Mostra Cioni";
             this.btnCini.UseVisualStyleBackColor = true;
             this.btnCini.Click += new System.EventHandler(this.btnCini_Click);
             // 
