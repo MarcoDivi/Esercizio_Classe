@@ -87,11 +87,11 @@
             // 
             // btnCini
             // 
-            this.btnCini.Location = new System.Drawing.Point(12, 206);
+            this.btnCini.Location = new System.Drawing.Point(12, 205);
             this.btnCini.Name = "btnCini";
             this.btnCini.Size = new System.Drawing.Size(95, 23);
             this.btnCini.TabIndex = 5;
-            this.btnCini.Text = "Mostra Cini";
+            this.btnCini.Text = "Mostra Cristiano";
             this.btnCini.UseVisualStyleBackColor = true;
             this.btnCini.Click += new System.EventHandler(this.btnCini_Click);
             // 

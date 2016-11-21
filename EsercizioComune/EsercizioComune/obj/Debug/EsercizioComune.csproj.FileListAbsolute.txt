@@ -118,3 +118,6 @@ C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\Es
 C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.csproj.GenerateResource.Cache
 C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe
 C:\Users\Il Conte\Desktop\Nuova cartella (2)\Esercizio_Classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.pdb
+C:\Users\studente\Desktop\esercizio_classe\EsercizioComune\EsercizioComune\bin\Debug\EsercizioComune.exe.config
+C:\Users\studente\Desktop\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.exe
+C:\Users\studente\Desktop\esercizio_classe\EsercizioComune\EsercizioComune\obj\Debug\EsercizioComune.pdb
