@@ -29,12 +29,12 @@ namespace EsercizioComune
 
         private void btnRusso_Click(object sender, EventArgs e)
         {
-            lblTesto.Text = "Mattia Russo";
+            lblTesto.Text = "Mattia Russa";
         }
 
         private void btnCini_Click(object sender, EventArgs e)
         {
-            lblTesto.Text = "Lorenzo Cini ";
+            lblTesto.Text = "Lorenzo Cini "; 
 
         }
 
@@ -88,6 +88,9 @@ namespace EsercizioComune
             lblTesto.Text = "Duta Adrian George";
         }
 
-      
+        private void form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

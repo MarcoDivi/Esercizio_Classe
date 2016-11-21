@@ -217,6 +217,7 @@
             this.Controls.Add(this.btnRiccardo);
             this.Name = "form1";
             this.Text = "Esercizio";
+            this.Load += new System.EventHandler(this.form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
